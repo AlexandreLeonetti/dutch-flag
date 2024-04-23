@@ -1,0 +1,24 @@
+{
+  "name": "@leonetti/dutch-flag",
+  "version": "0.0.2",
+  "description": "dutch flag sort",
+  "repository": "alexandreleonetti/dutch-flag",
+  "type": "module",
+	"exports": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  	"files": [
+		"dist"
+	],
+	"keywords": [
+		"type",
+		"types"
+  ],
+  "author":{
+		"name": "Alex Leonetti",
+		"url": "https://github.com/AlexandreLeonetti"
+	},
+  "license": "ISC"
+}
